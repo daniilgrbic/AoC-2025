@@ -1,5 +1,10 @@
 # Directories
 .vscode/
 
-# File types
+# Executables & build files
 *.out
+*.hi
+*.o
+
+# Python Venv
+venv/
